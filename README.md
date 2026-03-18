@@ -24,7 +24,7 @@ The dataset consists of 705 student records including attributes such as gender,
 6. Visualization: Designed charts for clear and effective storytelling.
 
 ## Dashboard
-- <a href="https://github.com/Dprofessor-hub/Dashboard-Social-Media-Analysis/blob/main/Social_media_Image.png">View DashBoard<a/>
+<img width="1413" height="725" alt="Social_media_Image" src="https://github.com/user-attachments/assets/89c1e378-4b0c-4ed3-a052-afa9e6667b86" />
 
 
 ## Project Insights
