@@ -1,0 +1,44 @@
+# Sales Insight for Dmart Store Dashboard
+## Project Description
+This project presents an interactive Excel dashboard developed to analyze sales performance for a retail store (Dmart). The dashboard provides a comprehensive overview of business performance by visualizing key sales metrics, profit trends, and product-level insights. The primary goal of this project is to enable data-driven decision-making by identifying patterns in sales, profitability, and customer purchasing behavior.
+
+The dataset includes transactional data categorized by region, product type, sales channel (online and offline), and year. Using this data, the dashboard highlights total sales, total profit, and top-performing products. It also allows users to filter data dynamically based on region, year, and sales channel using slicers, making the analysis highly interactive and user-friendly.
+
+Key visualizations include profit distribution across regions, quantity sold by product categories, yearly sales trends, and order distribution based on quantity levels. These visuals help uncover insights such as which regions contribute the most profit, which products are in highest demand, and how sales channels perform comparatively.
+
+Overall, this dashboard demonstrates strong Excel skills including data cleaning, transformation, pivot tables, and advanced visualization techniques. It serves as a powerful tool for business stakeholders to monitor performance, optimize sales strategies, and improve profitability.
+
+## Project Objective
+To analyze sales and profit performance across different regions, products, and sales channels, and provide actionable insights for improving business growth and decision-making.
+
+## Dataset Used
+The dataset contains sales transaction records including region, product categories, sales channel (online/offline), year, quantity sold, revenue, and profit. The dataset is clean and structured for analysis.
+
+## Key Questions (KPIs)
+•	What is the total sales revenue?
+•	What is the total profit generated?
+•	Which product category is the top performer?
+•	Which region contributes the highest profit?
+•	How do online and offline sales compare?
+•	What are the yearly sales trends?
+•	How are orders distributed based on quantity?
+
+## Process
+1. Data Cleaning and Preparation
+2. Data Transformation using Excel
+3. Creation of Pivot Tables
+4. Dashboard Design with Charts and KPIs
+5. Adding Slicers for Interactivity
+6. Final Visualization and Formatting
+
+## Dashboard
+ 
+## Project Insights
+•	Fruits are the top-performing product category.
+•	Sub-Saharan Africa and Europe generate the highest profit.
+•	Offline sales slightly outperform online sales in quantity.
+•	Sales show fluctuations across years with peak performance in mid-years.
+•	High and medium order quantities dominate the distribution.
+
+## Final Conclusion
+The dashboard effectively highlights key business metrics and trends, enabling better understanding of sales performance. It helps identify high-performing regions and products while also revealing opportunities for improvement in underperforming areas. This project showcases the power of Excel in transforming raw data into meaningful business insights.
