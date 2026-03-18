@@ -4,7 +4,7 @@ The objective of this project is to analyze the impact of social media usage on 
 
 ## Dataset Used
 The dataset consists of 705 student records including attributes such as gender, age group, academic level, country, daily social media usage hours, addiction score, sleep duration, mental health score, and academic impact. The dataset is clean with no missing values and is structured for efficient analysis.
-<a href=
+- <a href="https://github.com/Dprofessor-hub/Dashboard-Social-Media-Analysis/blob/main/Students%20Social%20Media%20Addiction%20(1).xlsx">Dataset<a/>
 
 ## Key Questions (KPIs)
 •	What is the average daily social media usage among students?
@@ -24,6 +24,7 @@ The dataset consists of 705 student records including attributes such as gender,
 6. Visualization: Designed charts for clear and effective storytelling.
 
 ## Dashboard
+- <a href="https://github.com/Dprofessor-hub/Dashboard-Social-Media-Analysis/blob/main/Social_media_Image.png">View DashBoard<a/>
 
 
 ## Project Insights
